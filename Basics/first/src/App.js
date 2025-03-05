@@ -19,6 +19,7 @@ function App() {
           Learn React
           <Greeting />
         </a>
+        {/* <button className='App' id='btn' onClick={document.getElementById('btn').textContent="You Clicked the button"}> Click me </button> */}
       </header>
     </div>
   );
